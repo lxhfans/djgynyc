@@ -67,8 +67,8 @@ if __name__ == "__main__":
         raise Exception("CF_API_TOKEN is not set in the environment variables.")
     
     subdomain_ip_mapping = {
-        '@': 'https://raw.githubusercontent.com/lxhfans/djgynyc/refs/heads/main/ip.txt',
-        'api': 'https://raw.githubusercontent.com/lxhfans/djgynyc/refs/heads/main/ip.txt',
+        '@': 'https://raw.githubusercontent.com/lxhfans/lxnyc/refs/heads/main/ip.txt',
+        'api': 'https://raw.githubusercontent.com/lxhfans/lxnyc/refs/heads/main/ip.txt',
     }
     
     try:
